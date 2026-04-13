@@ -1,4 +1,4 @@
-Plant Simulation Engine
+Plant Simulation Engine projects
 
 An interactive simulation platform that models plant growth based on environmental conditions like sunlight and water over time.
 
